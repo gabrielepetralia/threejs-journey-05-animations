@@ -1,6 +1,8 @@
 # Animations
 
+This project showcases simple animations of a 3D object using Three.js, employing three different methods to achieve smooth and dynamic motion. 
 
+The methods demonstrated include requestAnimationFrame, THREE.Clock, and the GSAP (GreenSock Animation Platform) library.
 
 ## Prerequisites
 
